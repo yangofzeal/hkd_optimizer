@@ -24,3 +24,6 @@ Paid edition:
 
 The benchmark demonstrates exact sparse dynamic re-evaluation. It does not claim
 that an entire NP-hard solver inherits the evaluator's measured speedup.
+
+## Buy Unlimited
+https://buy.stripe.com/fZu28k5uzcMv0ZcbV5gUM0k
