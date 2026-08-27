@@ -1,6 +1,6 @@
-# HKD Optimizer
+# HKD Optimizer - 1,000,000x ALU speedup
 
-> **Exact sparse incremental optimization — recompute what changed, not everything.**
+**Exact sparse incremental optimization — recompute what changed, not everything.**
 
 HKD Optimizer is an exact incremental optimization framework powered by `hkd_alu`.
 
