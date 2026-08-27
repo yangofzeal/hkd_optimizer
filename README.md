@@ -25,6 +25,9 @@ the structural reduction can be enormous.
 
 ---
 
+## Buy Unlimited
+https://buy.stripe.com/fZu28k5uzcMv0ZcbV5gUM0k
+
 ## Flagship Benchmark: Dynamic Semiconductor Job-Shop
 
 A semiconductor-style scheduling workload models:
